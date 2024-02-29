@@ -15,8 +15,8 @@
         The Uncoventional Calculator
     </section>
     <div class="calculator">
+        @livewire("counter")
     </div>
-
     @livewireScripts
 </body>
 </html>

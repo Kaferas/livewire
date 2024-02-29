@@ -16,6 +16,12 @@ section{
     position: sticky;
     top: 0px;
 }
+.row{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 2em;
+}
 .calculator,.result{
     width: 70vw;
     min-width: 460px;
